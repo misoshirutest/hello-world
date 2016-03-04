@@ -2,7 +2,3 @@
 first github
 
 ## test
-
-*aaa
-*sds
-*fsfds
